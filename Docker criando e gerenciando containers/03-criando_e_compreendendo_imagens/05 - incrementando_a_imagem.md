@@ -45,7 +45,7 @@ docker build -t danielartine/app-node:1.1 .
 **Uso de process.env.PORT no código para tornar a porta parametrizada.**
 ## Utilização de ARG e ENV no Dockerfile
 
-A instrução ARG no Dockerfile é usada para definir argumentos durante a construção da imagem. A instrução ENV é utilizada para definir variáveis de ambiente dentro do container. Demonstração de como passar o valor de ARG para ENV.
+**A instrução ARG no Dockerfile é usada para definir argumentos durante a construção da imagem. A instrução ENV é utilizada para definir variáveis de ambiente dentro do container. Demonstração de como passar o valor de ARG para ENV.**
 
 ```dockerfile
 
