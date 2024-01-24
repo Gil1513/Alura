@@ -1,0 +1,5 @@
+Neste resumo da aula sobre Docker, o instrutor Daniel introduz o curso oferecido pela Alura. Ele começa descrevendo o foco do curso no Docker, incluindo uma visão geral sobre o que será abordado. O curso abrangerá tópicos como iniciar com o Docker, o processo de download e instalação em sistemas Windows e Linux, e como configurar o ambiente.
+
+O instrutor também menciona que, após a instalação, o curso se aprofundará na utilização prática do Docker. Será explorado o significado de cada comando e flag do Docker, além de como criar containers, entender as diferenças entre containers e máquinas virtuais, e as características únicas dos containers.
+
+Adicionalmente, o curso abordará a interação entre diferentes containers, a criação de containers próprios, o uso de containers de terceiros, e como identificar a autenticidade e o reconhecimento de um container pela comunidade. Por fim, Daniel encerra a introdução expressando o desejo de que os alunos aproveitem o curso e os convida para o próximo vídeo.
